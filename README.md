@@ -7,7 +7,7 @@ Me chamo Vinicius Raphael Ulian, sou de Cotia, São Paulo. Atualmente, estou cur
         <img 
             alt="Linkedin" 
             title="Acesse meu perfil no Linkedin" 
-            src=" &label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=0077B5"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/ViniciusUlian?tab=followers">
