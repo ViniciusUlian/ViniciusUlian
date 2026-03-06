@@ -1,16 +1,33 @@
-## Hi there 👋
+# Vinicius Ulian
 
-<!--
-**ViniciusUlian/viniciusulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Vinicius Raphael Ulian, sou de Cotia, São Paulo. Atualmente, estou cursando Ciência da Computação na USJT.
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://www.linkedin.com/in/vinicius-ulian/">
+        <img 
+            alt="Linkedin" 
+            title="Acesse meu perfil no Linkedin" 
+            src=" &label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=0077B5"
+        />
+    </a>
+    <a href="https://github.com/ViniciusUlian?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ViniciusUlian?color=24292e&labelColor=24292e&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10 px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
